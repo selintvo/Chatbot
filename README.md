@@ -20,6 +20,7 @@ Chatbot, kullanıcının aşağıdaki gibi niyetlerine göre yanıt vermektedir:
 - Platforma Göre Öner
 - Oyuncuya Göre Öner
 - Film Yılına Göre Öner
+- Duyguya Göre Öner
 - ...
 
 Kullanıcı mesajı alındıktan sonra:
