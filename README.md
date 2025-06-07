@@ -51,6 +51,8 @@ Kullanıcı mesajı alındıktan sonra:
 - **Embedding Modeli:** GoogleGenerativeAIEmbeddings (models/embedding-001)
 - API anahtarı `.env` dosyasından güvenli şekilde yüklendi.
 
+> Modelle ilgili tüm detaylı açıklamalar ve kod içi yorumlar, `app.py` dosyasında ilgili kod blokları içerisinde açıklanmıştır.
+
 ---
 
 ## Performans Değerlendirmesi
