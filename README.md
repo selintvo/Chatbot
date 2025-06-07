@@ -75,21 +75,17 @@ Metrikler, scikit-learn kütüphanesi kullanılarak hesaplanmıştır.
 
 Aşağıda birkaç örnekle chatbotun nasıl cevaplar verdiği yer almaktadır:
 
-1. ![Görsel 1](https://github.com/user-attachments/assets/a47a1478-2005-4160-8415-93bac74fbe9b)
-
-2. ![Görsel 2](https://github.com/user-attachments/assets/b8f19fa9-d517-4d8d-ac36-fc071d668978)
-
-3. ![Görsel 3](https://github.com/user-attachments/assets/09399116-7b14-40ba-91ff-6873eb0ac381)
-
-4. ![Görsel 4](https://github.com/user-attachments/assets/b0d9e4b9-510b-4f1b-bd26-38992741b552)
-
-5. ![Görsel 5](https://github.com/user-attachments/assets/acbf5b7d-2d24-4edb-ba19-c741f7bda82b)
-
-6. ![Görsel 6](https://github.com/user-attachments/assets/4488f260-fdac-48ff-aeba-3919d086caa1)
-
-| Görsel 1 | Görsel 2 |
+| Kullanıcı Sorusu | Modelin Cevabı |
 |----------|----------|
 | ![1](https://github.com/user-attachments/assets/a47a1478-2005-4160-8415-93bac74fbe9b) | ![2](https://github.com/user-attachments/assets/b8f19fa9-d517-4d8d-ac36-fc071d668978) |
+
+| Kullanıcı Sorusu | Modelin Cevabı |
+|----------|----------|
+| ![3](https://github.com/user-attachments/assets/09399116-7b14-40ba-91ff-6873eb0ac381) | ![4](https://github.com/user-attachments/assets/b0d9e4b9-510b-4f1b-bd26-38992741b552) |
+
+| Kullanıcı Sorusu | Modelin Cevabı |
+|----------|----------|
+| ![5](https://github.com/user-attachments/assets/acbf5b7d-2d24-4edb-ba19-c741f7bda82b) | ![6](https://github.com/user-attachments/assets/4488f260-fdac-48ff-aeba-3919d086caa1) |
 
 ---
 
