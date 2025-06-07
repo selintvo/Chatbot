@@ -44,11 +44,11 @@ Kullanıcı mesajı alındıktan sonra:
 ---
 
 ## Model Seçimi ve Eğitim
+- **Neden Google Gemini?** Proje kapsamına uygun, güçlü, Türkçe dil desteği ve gelişmiş bağlamsal anlama yeteneği sunar.
 - **Intent Sınıflandırma:** SVM (Support Vector Classifier) kullanıldı. TF-IDF ile metinler sayısallaştırıldı.
 - **Neden SVM?** Basit, etkili ve küçük/orta büyüklükte veri setlerinde iyi sonuç verir.
 - **Chatbot LLM Modeli:** Google Gemini (models/gemini-1.5-flash-latest)
 - **Embedding Modeli:** GoogleGenerativeAIEmbeddings (models/embedding-001)
-- **Neden Google Gemini?** Proje kapsamına uygun, güçlü, Türkçe dil desteği ve gelişmiş bağlamsal anlama yeteneği sunar.
 - API anahtarı `.env` dosyasından güvenli şekilde yüklendi.
 
 ---
@@ -72,6 +72,24 @@ Metrikler, scikit-learn kütüphanesi kullanılarak hesaplanmıştır.
 - Kullanıcı, arayüz üzerinden film tercihini doğal dilde girer.
 - Chatbot, Gemini modeli ile öneriyi oluşturur ve ekranda gösterir.
 - Arayüz akıcı ve hızlıdır, kullanıcı deneyimini ön planda tutar.
+
+Aşağıda birkaç örnekle chatbotun nasıl cevaplar verdiği yer almaktadır:
+
+1. ![Görsel 1](https://github.com/user-attachments/assets/a47a1478-2005-4160-8415-93bac74fbe9b)
+
+2. ![Görsel 2](https://github.com/user-attachments/assets/b8f19fa9-d517-4d8d-ac36-fc071d668978)
+
+3. ![Görsel 3](https://github.com/user-attachments/assets/09399116-7b14-40ba-91ff-6873eb0ac381)
+
+4. ![Görsel 4](https://github.com/user-attachments/assets/b0d9e4b9-510b-4f1b-bd26-38992741b552)
+
+5. ![Görsel 5](https://github.com/user-attachments/assets/acbf5b7d-2d24-4edb-ba19-c741f7bda82b)
+
+6. ![Görsel 6](https://github.com/user-attachments/assets/4488f260-fdac-48ff-aeba-3919d086caa1)
+
+| Görsel 1 | Görsel 2 |
+|----------|----------|
+| ![1](https://github.com/user-attachments/assets/a47a1478-2005-4160-8415-93bac74fbe9b) | ![2](https://github.com/user-attachments/assets/b8f19fa9-d517-4d8d-ac36-fc071d668978) |
 
 ---
 
