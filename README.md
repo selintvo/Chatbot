@@ -18,6 +18,7 @@ Chatbot, kullanıcının aşağıdaki gibi niyetlerine göre yanıt vermektedir:
 - Film Puanı Sor
 - Film Süresi Sor
 - Platforma Göre Öner
+- Oyuncuya Göre Öner
 - ...
 
 Kullanıcı mesajı alındıktan sonra:
