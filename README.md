@@ -38,9 +38,9 @@ Kullanıcı mesajı alındıktan sonra:
 
 | intent   | text                          |
 | -------- | ----------------------------------- |
-| Greeting | Merhaba, size nasıl yardımcı olabilirim? |
-| Goodbye  | Görüşmek üzere, iyi günler!         |
-| Film_Type| Aksiyon türünde film önerir misin?  |
+| selamla | Merhaba, size nasıl yardımcı olabilirim? |
+| veda_et  | Görüşmek üzere, iyi günler!         |
+| tür_öner| Aksiyon türünde film önerir misin?  |
 
 - Veri, kullanıcı niyetlerini temsil edecek şekilde etiketlenmiştir.
 
